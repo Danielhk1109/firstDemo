@@ -34,6 +34,9 @@ public class AbsenceSummary  {
 		System.out.println(absenceRecord.getAttendanceEnd());
 		System.out.println(absenceRecord.getVacationType());
 		
+		System.out.println("-----------------");
+		System.out.println("Add first change for test");
+		
 	}
 
 }
