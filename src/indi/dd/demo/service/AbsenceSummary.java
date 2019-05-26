@@ -33,6 +33,8 @@ public class AbsenceSummary  {
 		System.out.println(absenceRecord.getAttendanceStart());
 		System.out.println(absenceRecord.getAttendanceEnd());
 		System.out.println(absenceRecord.getVacationType());
+	
+		System.out.println("master add a litte change...");
 		
 	}
 
